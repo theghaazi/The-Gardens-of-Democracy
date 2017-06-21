@@ -11,4 +11,14 @@ Tech - To make sure the platform is secure and free from influence. Also, the st
 
 Scope:
 ======
-This website will serve one nation. We will start with USA. Then we will create similar sites for countries what are interested in this platform.
+This website will serve one nation. We will start with USA. Then we will clone sites for countries what are interested in this platform.
+
+Tasks:
+======
+We need the following tasks to be performed.
+	1. A Garden please check the README and correct ay spelling and gramatical mistakes.
+	2. A CloudFormation template to create two Linux web servers with Appache, PHP, MySQL instanned and configured.
+	3. Autoscalling group to increase instances if traffice increases but keep a minimum of two instance running all the 		time.
+	4. Create a PHP WebSite with MySQL backend.
+		4a. The exact layout of the website fround page will have whats shown in the template sestion with lable "4a 			Main Page."
+		
