@@ -16,11 +16,11 @@ This website will serve one nation. We will start with USA. Then we will clone s
 Tasks:
 ======
 We need the following tasks to be performed.
-	1. A Garden please check the README and correct ay spelling and grammatical mistakes.
-	2. A CloudFormation template to create two Linux web servers with Apache, PHP, MySQL installed and configured.
-	3. Autoscalling group to increase instances if traffic increases but keep a minimum of two instance running all the 		time.
-	4. Create a PHP Website with MySQL backend.
-		4a. The exact layout of the website 1st page will have what’s shown in the template section with label 
+	* A Garden please check the README and correct ay spelling and grammatical mistakes.
+	* A CloudFormation template to create two Linux web servers with Apache, PHP, MySQL installed and configured.
+	* Autoscalling group to increase instances if traffic increases but keep a minimum of two instance running all the 		time.
+	* Create a PHP Website with MySQL backend.
+		* The exact layout of the website 1st page will have what’s shown in the template section with label 
 		"4a Main Page."
 		
 
